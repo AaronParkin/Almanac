@@ -9,33 +9,13 @@ p {
   border: 15px;
   padding: 50px;
   margin: 20px;
-}
-
-p1 {
+  text-align:left;
   
-  width: 300px;
-  border: 10px;
-  padding: 1px;
-  margin: 1px;
-  background-color: grey;
 }
-p2 {  width: 300px;
-  border: 10px;
-  padding: 1px;
-  margin: 1px;
-  background-color: white;}
-  
-  p3 { width: 300px;
-  border: 10px;
-  padding: 1px;
-  margin: 1px;
-  background-color: white;
-    
-  }
 
 body {
   font-family: Times, serif;
-  background-color: white;
+background-color: coral;
 }
 
 /* Style the navbar */
