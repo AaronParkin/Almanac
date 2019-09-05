@@ -9,13 +9,12 @@ p {
   border: 15px;
   padding: 50px;
   margin: 20px;
-  text-align:left;
+  text-align:wrap;
   
 }
 
 body {
   font-family: Times, serif;
-background-color: coral;
 }
 
 /* Style the navbar */
