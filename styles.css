@@ -9,12 +9,13 @@ p {
   border: 15px;
   padding: 50px;
   margin: 20px;
-  text-align:wrap;
-  
+  text-align: wrap;
+
 }
 
 body {
   font-family: Times, serif;
+  background-image: url("https://www.publicdomainpictures.net/pictures/200000/velka/yellow-fur-background.jpg")
 }
 
 /* Style the navbar */
